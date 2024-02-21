@@ -1,2 +1,2 @@
 # git
-author= tuba javed
+##author= tuba javed
