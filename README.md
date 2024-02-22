@@ -1,2 +1,2 @@
-# git
-author= tuba javed
+# Rock Paper Scissors Game
+
